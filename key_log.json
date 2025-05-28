@@ -1,0 +1,80 @@
+[
+  {
+    "Pressed": "'v'"
+  },
+  {
+    "Held": "'v'"
+  },
+  {
+    "Released": "'v'"
+  },
+  {
+    "Pressed": "'v'"
+  },
+  {
+    "Held": "'v'"
+  },
+  {
+    "Released": "'v'"
+  },
+  {
+    "Pressed": "'o'"
+  },
+  {
+    "Held": "'o'"
+  },
+  {
+    "Released": "'o'"
+  },
+  {
+    "Pressed": "'o'"
+  },
+  {
+    "Held": "'o'"
+  },
+  {
+    "Released": "'o'"
+  },
+  {
+    "Pressed": "'v'"
+  },
+  {
+    "Held": "'v'"
+  },
+  {
+    "Released": "'v'"
+  },
+  {
+    "Pressed": "'v'"
+  },
+  {
+    "Held": "'v'"
+  },
+  {
+    "Released": "'v'"
+  },
+  {
+    "Pressed": "'v'"
+  },
+  {
+    "Held": "'v'"
+  },
+  {
+    "Released": "'v'"
+  },
+  {
+    "Pressed": "Key.ctrl_l"
+  },
+  {
+    "Held": "Key.ctrl_l"
+  },
+  {
+    "Held": "'\\x01'"
+  },
+  {
+    "Released": "'\\x01'"
+  },
+  {
+    "Released": "Key.ctrl_l"
+  }
+]
